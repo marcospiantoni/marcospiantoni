@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcos Piantoni
 
 - 🔭 Hoje estudo para ser full stack
-- 🌱 Atuamente estudando JS avançado
+- 🌱 Atuamente estudando Node.js
 
 <div align="center">
   <a href="https://github.com/marcospiantoni">
