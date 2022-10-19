@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marcos Piantoni
 
-- 🔭 Desenvolvedor Front-end - HTML | CSS | JAVASCRIPT | REACT |
+- 🔭 Desenvolvedor Front-end - HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT | GIT
 - 🌱 Aprimorando meus conhecimentos em React
 
 <div align="center">
