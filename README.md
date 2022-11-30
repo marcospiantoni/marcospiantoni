@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Marcos Piantoni
 
-- 🔭 Desenvolvedor - HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT | GIT | NODE | NEXT | TAILWIND
+- 🔭 Desenvolvedor - HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT | GIT | NODE | NEXT | TAILWIND | FIGMA
 
 <div align="center">
   <a href="https://github.com/marcospiantoni">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcospiantoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospiantoni&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=marcospiantoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospiantoni&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
