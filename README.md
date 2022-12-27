@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marcos Piantoni
 
-- 🔭 Desenvolvedor - HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT | GIT | NODE | NEXT | TAILWIND | FIGMA
+- 🔭 Desenvolvedor 
 
 <div align="center">
   <a href="https://github.com/marcospiantoni">
